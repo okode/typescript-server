@@ -1,0 +1,20 @@
+{
+  "name": "typescript-server",
+  "version": "1.0.0",
+  "description": "Simple TypeScript Server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/okode/typescript-server.git"
+  },
+  "keywords": [],
+  "author": "Okode, www.okode.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/okode/typescript-server/issues"
+  },
+  "homepage": "https://github.com/okode/typescript-server#readme"
+}
