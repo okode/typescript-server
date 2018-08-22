@@ -138,3 +138,12 @@ Create a .vscode/launch.json file with the following content:
     ]
 }
 ```
+
+## Running with auto restart and debug support
+
+```
+$ npm install
+$ npm run dev
+```
+
+From VS Code attach to process Node and debug.
